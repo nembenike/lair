@@ -1,0 +1,127 @@
+body {
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+header {
+    background-color: #282828;
+    padding: 5px;
+    border: 3px #1d2021 solid;
+}
+
+a {
+    color: #a89984;
+    text-decoration: none;
+    margin: 10px;
+    text-shadow: 1px 1px #7f86a3;
+}
+
+.spotifytext {
+    color: #fbf1c7;
+    text-shadow: 2px 2px #7f86a3;
+    margin-top: 0px;
+}
+
+.spotifylink {
+    color: #b8bb26;
+    margin: 0;
+    text-shadow: 1px 1px #7f86a3;
+}
+
+.spotifylink:hover {
+    color: #98971a;
+}
+
+.title {
+    color: #fbf1c7;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-shadow: 2px 2px #7f86a3;
+}
+
+a:hover {
+    color: #b49d89;
+}
+
+nav {
+    background-color: #1d2021;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.smoltext {
+    padding-top: 20px;
+}
+
+p {
+    color: #fbf1c7;
+    padding: 20px;
+    padding-top: 0px;
+    text-align: left;
+    font-size: 17px;
+}
+
+.instances {
+    padding-bottom: 0px;
+}
+
+ul, li {
+    text-align: left;
+    list-style-type: square;
+}
+
+hr {
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 1px #1d2021 solid;
+}
+
+main {
+    border: 4px solid #1d2021;
+}
+
+.benike {
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 100%;
+    max-width: 500px;
+    max-height: 180px;
+}
+
+.index {
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 100%;
+    max-width: 500px;
+    max-height: 180px;
+}
+
+.monster {
+    max-height: 200px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
+
+.monstrous {
+    display: flex;
+    justify-content: space-between;
+}
+
+article {
+    color:#615b6b;
+    background-color: #282828;
+}
+
+footer {
+    padding: 10px;
+}
