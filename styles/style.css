@@ -72,6 +72,15 @@ p {
     padding-bottom: 0px;
 }
 
+li a {
+    color: #e2c7fb;
+    text-decoration: none;
+}
+
+li a:hover {
+    text-decoration: underline;
+}
+
 ul, li {
     text-align: left;
     list-style-type: square;
